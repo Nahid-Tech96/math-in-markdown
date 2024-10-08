@@ -47,6 +47,9 @@ Piecewise function:
 $$
 f(x) = \begin{cases}
 
+# Pythagorian Theorem:
+
+$$Y(L,K) = A L^\beta K^\alpha$$
 
 
 
