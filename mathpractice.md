@@ -25,3 +25,30 @@ $$\sum_{n=1}^10 \frac{1}{n}$$
 Keep your error, $\epsilon$,small!
 
 This version, $varepsilon$, should be prettier
+
+
+
+# Matrices
+
+A vector of prices:
+
+$$
+p =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
