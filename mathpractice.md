@@ -35,6 +35,17 @@ A vector of prices:
 $$
 p =
 
+# Equation System
+$$
+\begin{align}
+3x &+ 2y &= 5\\
+x &- y &= 1
+\end{align}
+$$
+
+Piecewise function:
+$$
+f(x) = \begin{cases}
 
 
 
